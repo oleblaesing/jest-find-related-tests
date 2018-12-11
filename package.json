@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "jest-find-related-tests",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  }
+}
